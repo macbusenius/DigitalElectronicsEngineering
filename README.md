@@ -5,7 +5,7 @@
 An digital electronic locking system that is using the Digilent Nexys4 Atrix-7 FPGA trainer board to design, implement and deploy working software in VHDL.
 
 ## Project Code
-> [Project Code](ProjectCode): Find all our code here
+> [Project Code](DesignProject.vhd): Find my code here
 
 ## System Requirements
 - **Software**: Vivado 2019.2
